@@ -1,0 +1,8 @@
+mutable; modify the structure easily
+immutable list; one can not be able to modify
+the list
+KEY ISSUES
+>SLICING
+>COMPREHENSION
+hey have ordered list of items
+https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fedabit.com%2Fchallenges%2Fpython3

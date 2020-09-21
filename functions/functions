@@ -1,0 +1,15 @@
+functions - block of functions that performs a specific task,
+BASIC FORM
+ -function name
+ -input = parameters
+
+why we need functions 
+ -avoid redundancy 
+ -increase modularity
+ -readability
+ -ease of testing
+ 
+ EXAMPLES
+  -all the diffrent parameters should have different names
+  -other parameters have default values
+  -idea of positional and key value argument

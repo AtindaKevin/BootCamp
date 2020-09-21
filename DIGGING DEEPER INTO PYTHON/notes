@@ -1,0 +1,9 @@
+1. list comprehension (dictionary comprehension)
+2. lambda
+ labda parameter : expression
+
+point ot note:
+   *can have any number of paramemeters but only one expression
+to_upper
+3. map,filter,reduce in built fuctions
+4. decorators

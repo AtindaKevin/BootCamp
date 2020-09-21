@@ -1,0 +1,10 @@
+Version control system - that allows you to track the history of collection drive.
+It is decentralised - meaning that it doesnot depend on a central tokeep the older versions of ur files 
+i.e packet, github
+Github configurations
+ username - git config --global user.name "AtindaKevin"
+ email - git config --global user.email "kevinatinda@yahoo.com"
+
+ git init
+ git status
+ git add .

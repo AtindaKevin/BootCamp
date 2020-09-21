@@ -1,0 +1,18 @@
+https://meet.google.com/linkredirect?authuser=0&dest=https%3A%2F%2Fdocs.python.org%2F3%2Flibrary%2Ftyping.html
+> OPERATORS ; It is a special symbol
+  -There are several OPERATORS
+     *arthimetic  // returns the a whole number 20//6  = 3
+     *comparison  > < >= <= != ==
+     *logical OPERATORS
+     *membership; in and not in
+     *assignment
+     *bitwise
+     *identity; is or is not; giving true or false
+logical opeartors 
+  and, 
+  they return boolean (true of false) true if all the expressions evaluate to true
+    or ,if either expressions evaluate true
+    not, return true if the expression is false
+
+Kenneth env\Scripts\activate
+     
